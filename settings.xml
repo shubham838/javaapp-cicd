@@ -5,8 +5,8 @@
       <id>nexus-premise</id>
       <!-- <username>${env.NEXUS_CREDS_USR}</username>
       <password>${env.NEXUS_CREDS_PSW}</password> -->
-      <username>${server.username}</username>
-      <password>${server.password}</password>
+      <username>${server.username}</admin>
+      <password>${server.password}</admin>
     </server>
   </servers>
 
